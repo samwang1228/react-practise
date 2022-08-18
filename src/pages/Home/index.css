@@ -3,6 +3,7 @@
   padding: 20px;
   border: 1px solid #000;
   box-sizing: border-box;
+  
 }
 
 input {
@@ -22,6 +23,7 @@ input {
 
 .list {
   padding-top: 20px;
+  
 }
 
 .item {
@@ -29,7 +31,7 @@ input {
   border-bottom: 1px solid #000;
   margin-bottom: 10px;
   padding-bottom: 10px;
-  display: flex;
+  /* display: flex; */
   justify-content: space-between;
   align-items: center;
 }

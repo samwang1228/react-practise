@@ -1,8 +1,25 @@
 {
-    "posts": [
-      {
-        "data": [],
-        "id": "1"
-      }
-    ]
-  }
+  "posts": [
+    {
+      "data": [
+        {
+          "id": "e1056753-b1e7-443b-a4d7-8fadbe205522",
+          "sid": "2028",
+          "buy_price": "25.2",
+          "buy_date": "2022-07-18",
+          "sell_price": "28.6",
+          "sell_date": "2022-08-18"
+        },
+        {
+          "id": "8183d6c1-dbea-4daa-adad-8afe941594f3",
+          "sid": "2457",
+          "buy_price": "32.4",
+          "buy_date": "2022-07-05",
+          "sell_price": "40.15",
+          "sell_date": "2022-08-18"
+        }
+      ],
+      "id": "1"
+    }
+  ]
+}
